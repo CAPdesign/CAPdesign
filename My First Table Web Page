@@ -1,0 +1,23 @@
+ <!doctype html>
+<html lang = "en">
+<head>
+      <meta charset = "UTF-8">
+      <title> My First Table </title>
+</head>
+
+ <table border = "1">
+<tr> 
+      <th> Name </th> <th> EMail </th> <th> Phone </th>
+  </tr>
+<tr><td> John </td>  <td> john@gmail.com </td> <td> 123-456-7890 </td>
+</tr>
+<tr><td> Paul </td>  <td> paul@gmail.com </td> <td> 234-567-8901 </td>
+</tr>
+<tr>
+    <td> Sam  </td>  <td> sam@gmail.com  </td>  <td> 345-678-9012 </td>
+</tr>
+  </table>
+
+<html>
+
+<html>
